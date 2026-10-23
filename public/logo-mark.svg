@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><title>CoserOps</title><rect width="128" height="128" rx="22" fill="#092a39"/><path d="M37 42a27 27 0 1 0 0 44h20V72H39a9 9 0 1 1 0-18h18V42H37Zm37 0H62v44h12V72h15v14h12V42H89v18H74V42Z" fill="#d8f36a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>CoserOps</title>
+  <desc>An open C with a connection node, representing connected customer operations.</desc>
+  <rect width="128" height="128" rx="28" fill="#0c3345"/>
+  <path d="M86 37.1672a36 36 0 1 0 0 53.6656" fill="none" stroke="#c7e76b" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="102" cy="64" r="7" fill="#c7e76b"/>
+</svg>
